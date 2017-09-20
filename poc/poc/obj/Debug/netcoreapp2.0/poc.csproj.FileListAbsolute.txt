@@ -1,0 +1,8 @@
+C:\tmp\src\poc\poc\bin\Debug\netcoreapp2.0\poc.deps.json
+C:\tmp\src\poc\poc\bin\Debug\netcoreapp2.0\poc.runtimeconfig.json
+C:\tmp\src\poc\poc\bin\Debug\netcoreapp2.0\poc.runtimeconfig.dev.json
+C:\tmp\src\poc\poc\bin\Debug\netcoreapp2.0\poc.dll
+C:\tmp\src\poc\poc\obj\Debug\netcoreapp2.0\poc.csprojResolveAssemblyReference.cache
+C:\tmp\src\poc\poc\obj\Debug\netcoreapp2.0\poc.csproj.CoreCompileInputs.cache
+C:\tmp\src\poc\poc\obj\Debug\netcoreapp2.0\poc.AssemblyInfoInputs.cache
+C:\tmp\src\poc\poc\obj\Debug\netcoreapp2.0\poc.AssemblyInfo.cs
