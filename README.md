@@ -4,7 +4,7 @@ The evil cousin of the super fast and super secure by default framework by Ben A
 
 ## Installation
 
-Create a branch new .NET core application via -> File New Project in Visual Studio. Then install the super insecure package.
+Create a brand new .NET core application via -> File New Project in Visual Studio. Then install the super insecure package.
 
 > Install-Package System.Bwn -Version 1.0.0
 
